@@ -5,7 +5,7 @@ A dynamic student management web application.
 
 ## Tutor
 
-**Bassel Mustaffa Alkhatib**
+**Tutor Name**
 
 ## Contributors
 
