@@ -5,12 +5,13 @@ A dynamic student management web application.
 
 ## Tutor
 
-**Bassel Mustaffa Alkhatib**
+**Tutor Name**
 
 ## Contributors
 
--   **Mouhammad Alnajjar** (`mouhammad_232243`) | C4
--   **Talal Awad** (`Talal_196890`) | C2
+-   **USER 1**
+-   **USER 2**
+-   .....
 
 ## Description
 
