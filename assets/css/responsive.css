@@ -1,0 +1,40 @@
+@media (max-width: 768px) {
+  html,
+  body {
+    margin: 10px !important;
+  }
+  .logo {
+    display: flex;
+    flex-direction: column;
+  }
+  .svu_container {
+    min-width: 350px;
+  }
+
+  .svu_table thead {
+    display: none;
+  }
+  .svu_table tr {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .svu_table td {
+    display: block;
+    text-align: right;
+    position: relative;
+    padding-left: 50%;
+  }
+  .svu_table td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    width: 50%;
+    padding-left: 15px;
+    font-weight: bold;
+    text-align: left;
+  }
+  #search-results {
+    width: calc(100% - 80px) !important;
+    z-index: 10;
+  }
+}
